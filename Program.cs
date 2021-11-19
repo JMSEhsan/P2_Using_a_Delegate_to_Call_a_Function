@@ -1,7 +1,9 @@
 ﻿/* 
-
-I modified the code for .Net 6
+Beginning C# Programming with Visual Studio 2017 by Benjamin et al. Wrox, 2018.
+I slightly modified the code to be able to run with .Net 6
+IDE: VS Code
 */
+
 // See https://aka.ms/new-console-template for more information
 class Program
 {
