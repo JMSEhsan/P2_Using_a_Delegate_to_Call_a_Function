@@ -1,0 +1,15 @@
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\bin\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.exe
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\bin\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.deps.json
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\bin\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.runtimeconfig.json
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\bin\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.dll
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\bin\Debug\net6.0\ref\P2_Using_a_Delegate_to_Call_a_Function.dll
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\bin\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.pdb
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\obj\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.csproj.AssemblyReference.cache
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\obj\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\obj\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.AssemblyInfoInputs.cache
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\obj\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.AssemblyInfo.cs
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\obj\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.csproj.CoreCompileInputs.cache
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\obj\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.dll
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\obj\Debug\net6.0\ref\P2_Using_a_Delegate_to_Call_a_Function.dll
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\obj\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.pdb
+C:\Users\se_ja\Desktop\P2_Using_a_Delegate_to_Call_a_Function\obj\Debug\net6.0\P2_Using_a_Delegate_to_Call_a_Function.genruntimeconfig.cache
