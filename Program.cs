@@ -15,7 +15,10 @@ class Program
     static double Divide (double param1, double param2) => param1 / param2;
 
     static void Main (string[] args)
-    {
+    {   
+        String x = "d";
+        while (x == "D" || x == "d" || x == "M" || x == "m")
+        {
         ProcessDelegate process;
         Console.WriteLine("Enter 2 numbers seperated with a comma:");
         string input = Console.ReadLine();
@@ -26,11 +29,14 @@ class Program
         Console.WriteLine("Enter M to multiply or D to divide:");
         input = Console.ReadLine();
         
-        if (input == "M")
+        if (input == "M" || input == "m")
            process = new ProcessDelegate(Multiply);
         else
-           process = new ProcessDelegate(Divide);
+        process = new ProcessDelegate(Divide);
+        
         Console.WriteLine($"Result: {process(param1, param2)}");
-        Console.ReadKey();        
+        Console.WriteLine(" ");
+        Console.ReadKey();
+        }        
     }
 }
