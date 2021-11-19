@@ -1,7 +1,10 @@
 ﻿/* 
+P2: Using a Delegate to Call a Function
+------------
 Beginning C# Programming with Visual Studio 2017 by Benjamin et al. Wrox, 2018.
 I slightly modified the code to be able to run with .Net 6
 IDE: VS Code
+
 */
 
 // See https://aka.ms/new-console-template for more information
@@ -9,7 +12,7 @@ class Program
 {
     delegate double ProcessDelegate(double param1, double param2);
     static double Multiply (double param1, double param2) => param1 * param2;
-    static double Divide (double param1, double param2) => param1 * param2;
+    static double Divide (double param1, double param2) => param1 / param2;
 
     static void Main (string[] args)
     {
